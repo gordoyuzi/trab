@@ -1,0 +1,20 @@
+body{
+    background-color: lightsteelblue;
+}
+.eu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    margin-left: 15%;
+    gap: 5px;
+    background-color:rgb(98, 98, 240);
+    width: 70%;
+    border: 5px solid rgb(21, 3, 37);
+}
+button{
+    background-color: rgb(107, 201, 233);
+    border-radius: 6px;
+    border: 1px solid rgb(236, 135, 135);
+    padding: 6px;
+}
